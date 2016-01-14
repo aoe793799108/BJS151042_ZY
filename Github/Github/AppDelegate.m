@@ -10,7 +10,7 @@
 
 @interface AppDelegate ()
 @property(nonatomic,strong)UILabel * mylabel;
-
+@property(nonatomic,strong) UITextField * textFiled;
 @property(nonatomic,strong)UIButton * myButton;
 @end
 
