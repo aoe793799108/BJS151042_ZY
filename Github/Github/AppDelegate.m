@@ -18,6 +18,7 @@
 
 @property(strong,nonatomic)UIImageView *imageView;
 
+@property(nonatomic,strong)UILabel * aaa;
 
 @end
 
