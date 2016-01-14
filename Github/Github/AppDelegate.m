@@ -12,11 +12,8 @@
 @property(nonatomic,strong)UILabel * mylabel;
 @property(nonatomic,strong) UITextField * textFiled;
 @property(nonatomic,strong)UIButton * myButton;
-<<<<<<< HEAD
 @property(nonatomic,strong) UIButton * nextButton;
-=======
-@property(strong,nonatomic)UIImageView *imageView;
->>>>>>> a100ca09dc87c5f991a63ccf7069482cb99bca4f
+
 @end
 
 @implementation AppDelegate
