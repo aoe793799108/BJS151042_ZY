@@ -12,7 +12,7 @@
 @property(nonatomic,strong)UILabel * mylabel;
 @property(nonatomic,strong) UITextField * textFiled;
 @property(nonatomic,strong)UIButton * myButton;
-
+@property(nonatomic,strong)UIButton * secondButton;
 
 @property(nonatomic,strong) UIButton * nextButton;
 
