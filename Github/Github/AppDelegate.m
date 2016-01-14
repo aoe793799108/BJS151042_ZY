@@ -13,9 +13,11 @@
 @property(nonatomic,strong) UITextField * textFiled;
 @property(nonatomic,strong)UIButton * myButton;
 
+
 @property(nonatomic,strong) UIButton * nextButton;
 
 @property(strong,nonatomic)UIImageView *imageView;
+
 
 @end
 
